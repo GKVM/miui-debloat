@@ -37,10 +37,8 @@ adb shell pm uninstall -k --user 0 com.mi.global.shop
 adb shell pm uninstall -k --user 0 com.mipay.wallet.in
 adb shell pm uninstall -k --user 0 com.mi.webkit.core
 adb shell pm uninstall -k --user 0 com.miui.player
-adb shell pm uninstall -k --user 0 com.netflix.mediaclient
 adb shell pm uninstall -k --user 0 com.mi.globalTrendNews
 adb shell pm uninstall -k --user 0 com.microsoft.office.outlook
-adb shell pm uninstall -k --user 0 com.netflix.partner.activation
 adb shell pm uninstall -k --user 0 com.phonepe.app
 adb shell pm uninstall -k --user 0 com.microsoft.office.powerpoint
 adb shell pm uninstall -k --user 0 com.xiaomi.oversea.ecom
