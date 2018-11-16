@@ -54,3 +54,10 @@ adb shell pm uninstall -k --user 0 com.miui.yellowpage
 adb shell pm uninstall -k --user 0 com.opera.mini.native
 adb shell pm uninstall -k --user 0 com.til.timesnews
 adb shell pm uninstall -k --user 0 com.opera.app.news
+#adb shell pm uninstall -k --user 0 com.kikaoem.xiaomi.qisiemoji.inputmethod
+adb shell pm uninstall -k --user 0 com.miui.hybrid
+adb shell pm uninstall -k --user 0 com.mfashiongallery.emag
+adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer
+adb shell pm uninstall -k --user 0 com.miui.notes
+adb shell pm uninstall -k --user 0 com.opera.branding
+adb shell pm uninstall -k --user 0 com.opera.branding.news
