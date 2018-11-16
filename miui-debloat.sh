@@ -118,3 +118,7 @@ echo "Attempting to remove the package: com.opera.branding"
 adb shell pm uninstall -k --user 0 com.opera.branding
 echo "Attempting to remove the package: com.opera.branding.news"
 adb shell pm uninstall -k --user 0 com.opera.branding.news
+echo "Attempting to remove the package: com.netflix.mediaclient"
+adb shell pm uninstall -k --user 0 com.netflix.mediaclient
+echo "Attempting to remove the package: com.netflix.partner.activation"
+adb shell pm uninstall -k --user 0 com.netflix.partner.activation
