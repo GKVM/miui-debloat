@@ -50,8 +50,6 @@ echo "Attempting to remove the package: com.facebook.services"
 adb shell pm uninstall -k --user 0 com.facebook.services
 echo "Attempting to remove the package: com.miui.bugreport"
 adb shell pm uninstall -k --user 0 com.miui.bugreport
-echo "Attempting to remove the package: com.miui.gallery"
-adb shell pm uninstall -k --user 0 com.miui.gallery
 echo "Attempting to remove the package: com.xiaomi.glgm"
 adb shell pm uninstall -k --user 0 com.xiaomi.glgm
 echo "Attempting to remove the package: com.google.android.videos"
