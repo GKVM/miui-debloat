@@ -122,3 +122,5 @@ echo "Attempting to remove the package: com.netflix.partner.activation"
 adb shell pm uninstall -k --user 0 com.netflix.partner.activation
 echo "Attempting to remove the package: in.mohalla.sharechat"
 adb shell pm uninstall -k --user 0 in.mohalla.sharechat
+echo "Attempting to remove the package: com.micredit.in"
+adb shell pm uninstall -k --user 0 com.micredit.in
